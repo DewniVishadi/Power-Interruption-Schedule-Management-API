@@ -1,2 +1,2 @@
 # Power-Interruption-Schedule-Management-API
-API for the Power Interruption Schedule Management 
+This repository contains the API created for the Power Interruption Schedule Management functionality developed for the ElectroGrid System.
